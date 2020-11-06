@@ -16,3 +16,7 @@
 NOTE - ensure you have the database installed. This can be a pain but I've bookmarked some good resources to help.
 
 4. Set up a MikroOrm instance, your first entity and get make sure you can create a table for that entity by doing a migration
+
+## Set up server
+
+this app will use express and graphql for the server
